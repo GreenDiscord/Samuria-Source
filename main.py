@@ -40,4 +40,4 @@ async def hi(ctx):
     await ctx.send(f"Hi {ctx.author.mention} :)")
 
 
-bot.run("ODA1ODQ0MjIyMzcyNDc5MDE2.YBgy6g.As8Wf5s3z4IgtFVTooE02MDl-Uo")
+bot.run("TOKEN")
